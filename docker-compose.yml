@@ -1,0 +1,8 @@
+version: '3'
+services:
+  api-convert-zip-to-rar:
+    build: .
+    ports:
+      - 9000:80
+    volumes:
+      - .:/code
