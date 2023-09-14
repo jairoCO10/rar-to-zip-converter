@@ -18,6 +18,9 @@
 
 .vscode/setting.json
 
+uploads/
+downloads/
+
 ### macOS ###
 # General
 .DS_Store
