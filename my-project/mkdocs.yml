@@ -11,5 +11,8 @@ nav:
 
 # theme: readthedocs
 
+# theme:
+#     name: dracula
+
 theme:
-    name: dracula
+  name: terminal
