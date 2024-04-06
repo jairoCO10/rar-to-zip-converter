@@ -1,9 +1,10 @@
 site_name: FastAPI RAR to ZIP API Documentation
 site_description: Documentación de la API FastAPI para convertir archivos RAR a ZIP
-theme: material
+# theme: material
 
 nav:
   - Inicio: index.md
   - Instalación: installation.md
   - Uso: usage.md
   - Referencia de la API: api_reference.md
+
