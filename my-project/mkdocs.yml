@@ -1,6 +1,6 @@
 site_name: FastAPI RAR to ZIP API 
 site_url: https://example.com/
-theme: readthedocs
+
 
 nav:
   - Inicio: index.md
@@ -8,3 +8,5 @@ nav:
   - Uso: usage.md
   - Referencia de la API: api_reference.md
 
+
+theme: readthedocs
